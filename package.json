@@ -1,0 +1,30 @@
+{
+  "name": "atividade01ppi",
+  "version": "1.0.0",
+  "description": "Reajuste de Salário usando node + express",
+  "keywords": [
+    "http",
+    "express",
+    "node",
+    "PPI"
+  ],
+  "homepage": "https://github.com/felipericci1005/Atividade01PPI#readme",
+  "bugs": {
+    "url": "https://github.com/felipericci1005/Atividade01PPI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipericci1005/Atividade01PPI.git"
+  },
+  "license": "ISC",
+  "author": "Felipe Ricci",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
